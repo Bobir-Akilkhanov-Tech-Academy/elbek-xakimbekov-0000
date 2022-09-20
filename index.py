@@ -1,1 +1,2 @@
-print('Elbek')
+print('Elbek!')
+print('Dilshod')
