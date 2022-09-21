@@ -1,2 +1,1 @@
-print('Elbek!')
-print('Dilshod')
+print('')
